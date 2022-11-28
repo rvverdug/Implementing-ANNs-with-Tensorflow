@@ -1,0 +1,6 @@
+.vscode/
+iannwtf/
+MyPyFiles/
+.idea/
+*__pycache__*
+logs/
